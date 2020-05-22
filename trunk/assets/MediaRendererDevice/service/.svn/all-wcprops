@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/assets/MediaRendererDevice/service
+END
+ConnectionManager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/assets/MediaRendererDevice/service/ConnectionManager.xml
+END
+RenderingControl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/assets/MediaRendererDevice/service/RenderingControl.xml
+END
+AVTransport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/assets/MediaRendererDevice/service/AVTransport.xml
+END

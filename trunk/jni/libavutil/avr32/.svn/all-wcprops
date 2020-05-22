@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/avr32
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavutil/avr32/bswap.h
+END
+intreadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavutil/avr32/intreadwrite.h
+END

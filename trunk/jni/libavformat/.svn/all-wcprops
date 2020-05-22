@@ -1,0 +1,1451 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/15/trunk/jni/libavformat
+END
+rtpproto.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpproto.c
+END
+avidec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/avidec.c
+END
+asfcrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/asfcrypt.c
+END
+aiffenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/aiffenc.c
+END
+flacenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/flacenc.c
+END
+cdg.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/cdg.c
+END
+rtpenc_h263.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpenc_h263.c
+END
+tiertexseq.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/tiertexseq.c
+END
+asfcrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/asfcrypt.h
+END
+flacenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/flacenc.h
+END
+mov.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/mov.c
+END
+rtmppkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/rtmppkt.c
+END
+assdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/assdec.c
+END
+flvdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/flvdec.c
+END
+swf.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/swf.h
+END
+allformats.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/allformats.c
+END
+cafdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/cafdec.c
+END
+ape.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/ape.c
+END
+avisynth.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/avisynth.c
+END
+rtmppkt.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/rtmppkt.h
+END
+rtpdec_xiph.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_xiph.c
+END
+librtmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/librtmp.c
+END
+oggparseogm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/oggparseogm.c
+END
+rtpdec_xiph.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_xiph.h
+END
+mpegenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/mpegenc.c
+END
+mxfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/mxfenc.c
+END
+metadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/metadata.c
+END
+bethsoftvid.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/bethsoftvid.c
+END
+aiffdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/aiffdec.c
+END
+flacdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/flacdec.c
+END
+bink.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/bink.c
+END
+rtpdec_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_h264.c
+END
+metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/metadata.h
+END
+tta.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/tta.c
+END
+mpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/mpeg.c
+END
+rtpdec_h264.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_h264.h
+END
+rtpenc_amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpenc_amr.c
+END
+msnwc_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavformat/msnwc_tcp.c
+END
+mpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/mpeg.h
+END
+avio.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/avio.c
+END
+rl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/rl2.c
+END
+filmstripenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/trunk/jni/libavformat/filmstripenc.c
+END
+cutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/cutils.c
+END
+avio.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/avio.h
+END
+mxfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/mxfdec.c
+END
+qtpalette.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavformat/qtpalette.h
+END
+dsicin.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/dsicin.c
+END
+aiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/aiff.h
+END
+flic.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/flic.c
+END
+daud.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/daud.c
+END
+mmf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/mmf.c
+END
+amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/amr.c
+END
+vc1testenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/vc1testenc.c
+END
+rtpdec_amr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_amr.c
+END
+eacdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/eacdata.c
+END
+gopher.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/gopher.c
+END
+rtpdec_amr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_amr.h
+END
+lmlm4.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/lmlm4.c
+END
+filmstripdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/trunk/jni/libavformat/filmstripdec.c
+END
+id3v1.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/id3v1.c
+END
+r3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/r3d.c
+END
+output-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavformat/output-example.c
+END
+id3v1.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/id3v1.h
+END
+aviobuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/aviobuf.c
+END
+vqf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/vqf.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/Makefile
+END
+sierravmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavformat/sierravmd.c
+END
+rtpenc_h264.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpenc_h264.c
+END
+adts.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/adts.h
+END
+libavformat-uninstalled.pc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/jni/libavformat/libavformat-uninstalled.pc
+END
+nut.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/nut.c
+END
+ipmovie.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/ipmovie.c
+END
+dv.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavformat/dv.c
+END
+anm.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/anm.c
+END
+nut.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/nut.h
+END
+ncdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/ncdec.c
+END
+rtpenc_mpv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpenc_mpv.c
+END
+vocenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/vocenc.c
+END
+rm.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavformat/rm.c
+END
+dv.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavformat/dv.h
+END
+avi.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/avi.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/file.c
+END
+adtsenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/adtsenc.c
+END
+nsvdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/nsvdec.c
+END
+rm.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavformat/rm.h
+END
+avformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/avformat.h
+END
+gxf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/gxf.c
+END
+avi.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/avi.h
+END
+smacker.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/smacker.c
+END
+mpegtsenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavformat/mpegtsenc.c
+END
+sdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/sdp.c
+END
+movenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/movenc.c
+END
+seek.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/seek.c
+END
+udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/udp.c
+END
+libavformat.v
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/libavformat.v
+END
+gxf.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/gxf.h
+END
+mxf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/mxf.c
+END
+mvi.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/mvi.c
+END
+thp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/thp.c
+END
+flv.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/flv.h
+END
+seek.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/seek.h
+END
+rpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/rpl.c
+END
+img2.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/img2.c
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/network.h
+END
+mxf.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/mxf.h
+END
+mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/mp3.c
+END
+txd.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/txd.c
+END
+flacenc_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavformat/flacenc_header.c
+END
+psxstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/psxstr.c
+END
+vocdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/vocdec.c
+END
+mpc8.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/mpc8.c
+END
+isom.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/isom.c
+END
+4xm.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/4xm.c
+END
+mm.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavformat/mm.c
+END
+asf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/asf.c
+END
+oggparsedirac.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/jni/libavformat/oggparsedirac.c
+END
+rtpdec_asf.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_asf.c
+END
+oggparsespeex.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/jni/libavformat/oggparsespeex.c
+END
+isom.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/isom.h
+END
+asf.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/asf.h
+END
+rtpdec_asf.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_asf.h
+END
+matroska.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/matroska.c
+END
+matroska.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/matroska.h
+END
+tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/tcp.c
+END
+id3v2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/id3v2.c
+END
+siff.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/siff.c
+END
+raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/raw.c
+END
+id3v2.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/id3v2.h
+END
+wv.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavformat/wv.c
+END
+nutenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/nutenc.c
+END
+oggparseflac.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/trunk/jni/libavformat/oggparseflac.c
+END
+sol.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/sol.c
+END
+raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/raw.h
+END
+c93.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/c93.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/utils.c
+END
+apetag.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/apetag.c
+END
+apc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/apc.c
+END
+rmenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/rmenc.c
+END
+iff.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/iff.c
+END
+spdif.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/spdif.c
+END
+apetag.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/apetag.h
+END
+yop.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/yop.c
+END
+xa.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavformat/xa.c
+END
+dxa.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/dxa.c
+END
+idroq.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/idroq.c
+END
+sox.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/sox.h
+END
+mpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/mpc.c
+END
+audiointerleave.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavformat/audiointerleave.c
+END
+yuv4mpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/yuv4mpeg.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/internal.h
+END
+nutdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/nutdec.c
+END
+metadata_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavformat/metadata_compat.c
+END
+audiointerleave.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavformat/audiointerleave.h
+END
+swfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/swfenc.c
+END
+rtmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/rtmp.h
+END
+caf.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/caf.c
+END
+rmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/rmdec.c
+END
+wc3movie.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/wc3movie.c
+END
+caf.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/caf.h
+END
+dvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/dvenc.c
+END
+oggenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/oggenc.c
+END
+gif.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/gif.c
+END
+framecrcenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/framecrcenc.c
+END
+swfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/swfdec.c
+END
+westwood.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/westwood.c
+END
+os_support.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/os_support.c
+END
+electronicarts.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavformat/electronicarts.c
+END
+mpjpeg.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/mpjpeg.c
+END
+os_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/os_support.h
+END
+segafilm.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/segafilm.c
+END
+voc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/voc.c
+END
+oggdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/oggdec.c
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/options.c
+END
+rtpenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpenc.c
+END
+oggparsevorbis.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavformat/oggparsevorbis.c
+END
+voc.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/voc.h
+END
+oggdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/oggdec.h
+END
+wav.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/wav.c
+END
+iss.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/iss.c
+END
+ffmenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/ffmenc.c
+END
+mpegts.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/mpegts.c
+END
+asfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/asfenc.c
+END
+rtpenc_aac.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpenc_aac.c
+END
+bfi.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/bfi.c
+END
+rtpenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpenc.h
+END
+httpauth.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/httpauth.c
+END
+mpegts.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/mpegts.h
+END
+rtmpproto.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavformat/rtmpproto.c
+END
+tmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/tmv.c
+END
+httpauth.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavformat/httpauth.h
+END
+matroskaenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/matroskaenc.c
+END
+nuv.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/nuv.c
+END
+avc.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/avc.c
+END
+gxfenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/gxfenc.c
+END
+ffm.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/ffm.h
+END
+avc.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/avc.h
+END
+rtspenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/rtspenc.c
+END
+rtpdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec.c
+END
+rtpdec_h263.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_h263.c
+END
+ffmdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/ffmdec.c
+END
+asfdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/asfdec.c
+END
+riff.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/riff.c
+END
+rtpdec.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec.h
+END
+aea.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/aea.c
+END
+pva.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/pva.c
+END
+vorbiscomment.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/jni/libavformat/vorbiscomment.c
+END
+rtsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/rtsp.c
+END
+rtpdec_h263.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/rtpdec_h263.h
+END
+rdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/rdt.c
+END
+avs.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/avs.c
+END
+vc1test.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavformat/vc1test.c
+END
+riff.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/riff.h
+END
+vorbiscomment.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/jni/libavformat/vorbiscomment.h
+END
+rtsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/rtsp.h
+END
+libnut.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/libnut.c
+END
+crcenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/crcenc.c
+END
+matroskadec.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavformat/matroskadec.c
+END
+rdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/rdt.h
+END
+soxenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/soxenc.c
+END
+timefilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/timefilter.c
+END
+avienc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/avienc.c
+END
+rtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/rtp.c
+END
+au.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavformat/au.c
+END
+mtv.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/mtv.c
+END
+iv8.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/iv8.c
+END
+concat.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/concat.c
+END
+timefilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/timefilter.h
+END
+oggparsetheora.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavformat/oggparsetheora.c
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/rtp.h
+END
+avlanguage.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/avlanguage.c
+END
+rtspcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavformat/rtspcodes.h
+END
+assenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/assenc.c
+END
+oggparseskeleton.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavformat/oggparseskeleton.c
+END
+oma.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/oma.c
+END
+flvenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/flvenc.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavformat/http.c
+END
+avlanguage.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavformat/avlanguage.h
+END
+qcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavformat/qcp.c
+END
+soxdec.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavformat/soxdec.c
+END
+libavformat.pc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/trunk/jni/libavformat/libavformat.pc
+END
+idcin.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavformat/idcin.c
+END

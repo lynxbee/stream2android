@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/Makefile
+END
+mpegvideo_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/mpegvideo_bfin.c
+END
+fdct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/fdct_bfin.S
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/mathops.h
+END
+idct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/idct_bfin.S
+END
+pixels_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/pixels_bfin.S
+END
+dsputil_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/dsputil_bfin.c
+END
+vp3_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/vp3_bfin.c
+END
+dsputil_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/dsputil_bfin.h
+END
+config_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/config_bfin.h
+END
+vp3_idct_bfin.S
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/jni/libavcodec/bfin/vp3_idct_bfin.S
+END

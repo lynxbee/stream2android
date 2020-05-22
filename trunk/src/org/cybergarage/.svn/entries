@@ -1,0 +1,46 @@
+10
+
+dir
+19
+http://stream2android.googlecode.com/svn/trunk/src/org/cybergarage
+http://stream2android.googlecode.com/svn
+
+
+
+2012-01-02T08:38:33.839498Z
+6
+hdebruijndeveloper@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+4cd09fb4-ffcc-a093-2f3f-0f3b09b994b3
+
+net
+dir
+
+util
+dir
+
+http
+dir
+
+xml
+dir
+
+soap
+dir
+
+upnp
+dir
+

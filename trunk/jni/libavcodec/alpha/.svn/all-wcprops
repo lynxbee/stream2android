@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha
+END
+mpegvideo_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/mpegvideo_alpha.c
+END
+motion_est_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/motion_est_alpha.c
+END
+asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/asm.h
+END
+dsputil_alpha_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/dsputil_alpha_asm.S
+END
+dsputil_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/dsputil_alpha.c
+END
+motion_est_mvi_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/motion_est_mvi_asm.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/Makefile
+END
+dsputil_alpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/dsputil_alpha.h
+END
+regdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/regdef.h
+END
+simple_idct_alpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/jni/libavcodec/alpha/simple_idct_alpha.c
+END

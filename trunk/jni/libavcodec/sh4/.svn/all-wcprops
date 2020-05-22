@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/15/trunk/jni/libavcodec/sh4
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavcodec/sh4/Makefile
+END
+dsputil_align.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavcodec/sh4/dsputil_align.c
+END
+idct_sh4.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/trunk/jni/libavcodec/sh4/idct_sh4.c
+END
+qpel.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavcodec/sh4/qpel.c
+END
+dsputil_sh4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavcodec/sh4/dsputil_sh4.c
+END
+sh4.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavcodec/sh4/sh4.h
+END
+dsputil_sh4.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavcodec/sh4/dsputil_sh4.h
+END

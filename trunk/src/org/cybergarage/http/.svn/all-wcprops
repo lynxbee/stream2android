@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http
+END
+ParameterList.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/ParameterList.java
+END
+Date.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/Date.java
+END
+HTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTP.java
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/Parameter.java
+END
+HTTPStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPStatus.java
+END
+HTTPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPRequest.java
+END
+HTTPHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPHeader.java
+END
+HTTPSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPSocket.java
+END
+HTTPServerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPServerThread.java
+END
+HTTPRequestListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPRequestListener.java
+END
+HTTPResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPResponse.java
+END
+HTTPServerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPServerList.java
+END
+HTML.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTML.java
+END
+HTTPServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPServer.java
+END
+HTTPPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/org/cybergarage/http/HTTPPacket.java
+END

@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/15/trunk/jni/libavutil
+END
+fifo.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavutil/fifo.c
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavutil/base64.c
+END
+random_seed.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavutil/random_seed.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/md5.c
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavutil/fifo.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavutil/base64.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/md5.h
+END
+avstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavutil/avstring.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavutil/common.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavutil/sha1.h
+END
+avstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavutil/avstring.h
+END
+lzo.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/lzo.c
+END
+aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/aes.c
+END
+intmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavutil/intmath.h
+END
+lzo.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/lzo.h
+END
+des.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/des.c
+END
+pixfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavutil/pixfmt.h
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/aes.h
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/mem.c
+END
+des.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/des.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/mem.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavutil/timer.h
+END
+intfloat_readwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavutil/intfloat_readwrite.c
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/trunk/jni/libavutil/attributes.h
+END
+intfloat_readwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavutil/intfloat_readwrite.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavutil/Makefile
+END
+mathematics.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavutil/mathematics.c
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavutil/utils.c
+END
+mathematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavutil/mathematics.h
+END
+intreadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavutil/intreadwrite.h
+END
+rational.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavutil/rational.c
+END
+sha.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/sha.c
+END
+rational.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavutil/rational.h
+END
+sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/sha.h
+END
+libm.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavutil/libm.h
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavutil/error.c
+END
+lls.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/lls.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavutil/error.h
+END
+lls.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/lls.h
+END
+avconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavutil/avconfig.h
+END
+softfloat.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavutil/softfloat.c
+END
+pca.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/pca.c
+END
+crc_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavutil/crc_data.h
+END
+softfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/trunk/jni/libavutil/softfloat.h
+END
+pca.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/pca.h
+END
+avutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/jni/libavutil/avutil.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/log.c
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/trunk/jni/libavutil/bswap.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/log.h
+END
+rc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/rc4.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavutil/adler32.c
+END
+rc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/rc4.h
+END
+integer.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavutil/integer.c
+END
+pixdesc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavutil/pixdesc.c
+END
+tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavutil/tree.c
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavutil/adler32.h
+END
+x86_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavutil/x86_cpu.h
+END
+integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavutil/integer.h
+END
+pixdesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/trunk/jni/libavutil/pixdesc.h
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/libavutil/tree.h
+END
+crc.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/crc.c
+END
+lfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/lfg.c
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/crc.h
+END
+lfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/jni/libavutil/lfg.h
+END
+random_seed.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavutil/random_seed.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/15/trunk/jni/libavutil/internal.h
+END

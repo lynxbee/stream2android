@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc
+END
+util_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/util_altivec.h
+END
+h264_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/h264_altivec.c
+END
+idct_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/idct_altivec.c
+END
+dsputil_ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/dsputil_ppc.h
+END
+dsputil_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/dsputil_altivec.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/Makefile
+END
+dsputil_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/dsputil_altivec.h
+END
+int_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/int_altivec.c
+END
+vc1dsp_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/vc1dsp_altivec.c
+END
+float_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/float_altivec.c
+END
+gmc_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/gmc_altivec.c
+END
+mathops.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/mathops.h
+END
+types_altivec.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/types_altivec.h
+END
+check_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/check_altivec.c
+END
+h264_template_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/h264_template_altivec.c
+END
+dsputil_ppc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/dsputil_ppc.c
+END
+fft_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/fft_altivec.c
+END
+vp3dsp_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/vp3dsp_altivec.c
+END
+mpegvideo_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/mpegvideo_altivec.c
+END
+fdct_altivec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/jni/libavcodec/ppc/fdct_altivec.c
+END

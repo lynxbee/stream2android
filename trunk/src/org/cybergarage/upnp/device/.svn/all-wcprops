@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device
+END
+NT.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/NT.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/Description.java
+END
+NTS.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/NTS.java
+END
+USN.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/USN.java
+END
+ST.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/ST.java
+END
+Advertiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/Advertiser.java
+END
+Disposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/Disposer.java
+END
+InvalidDescriptionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/InvalidDescriptionException.java
+END
+SearchResponseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/SearchResponseListener.java
+END
+SearchListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/SearchListener.java
+END
+MAN.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/MAN.java
+END
+DeviceChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/DeviceChangeListener.java
+END
+NotifyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/device/NotifyListener.java
+END

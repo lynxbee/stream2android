@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/xml
+END
+ActionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/xml/ActionData.java
+END
+DeviceData.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/xml/DeviceData.java
+END
+ServiceData.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/xml/ServiceData.java
+END
+ArgumentData.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/xml/ArgumentData.java
+END
+NodeData.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/xml/NodeData.java
+END
+StateVariableData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6/trunk/src/org/cybergarage/upnp/xml/StateVariableData.java
+END

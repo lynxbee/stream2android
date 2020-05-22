@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/15/trunk/jni
+END
+COPYING.LGPLv2.1
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/jni/COPYING.LGPLv2.1
+END
+build.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/15/trunk/jni/build.txt
+END
+COPYING.LGPLv3
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/15/trunk/jni/COPYING.LGPLv3
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/15/trunk/jni/LICENSE
+END
+ffmpegjni.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/15/trunk/jni/ffmpegjni.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/15/trunk/jni/Android.mk
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/15/trunk/jni/Changelog
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/15/trunk/jni/config.h
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/15/trunk/jni/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/15/trunk/jni/README
+END
+COPYING.GPLv2
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/15/trunk/jni/COPYING.GPLv2
+END
+COPYING.GPLv3
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/15/trunk/jni/COPYING.GPLv3
+END
+yuv2ppm.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/15/trunk/jni/yuv2ppm.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/15/trunk/jni/INSTALL
+END
+Application.mk
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/15/trunk/jni/Application.mk
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/15/trunk/jni/MAINTAINERS
+END
